@@ -10,22 +10,22 @@
 </div>
 -->
 
-<!-- Footer Wave (Commented Out)
+<!-- Footer Wave (Commented Out) -->
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
     width="100%" 
   />
 </p>
--->
+
 
 <!-- MasterHead -->
 <a href="https://github.com/franzego/franzego/blob/main/fallout_grayscale%20(1).gif">
   <img width="100%" src="https://github.com/franzego/franzego/blob/main/BEZEHEL.gif" alt="Fallout GIF"/>
 </a>
 
-Greeting -->
-<!-- <!-- <h2 align="center">❂ I am franzego</h2> -->
+<!-- Greeting -->
+<h2 align="center">❂ I am franzego</h2>
 
 
 
