@@ -113,6 +113,9 @@
 </p> -->
 
 <!-- Ending -->
-<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/old anime.gif" style="width:auto; height:auto" />
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/old anime.gif">
+  <img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/old anime.gif" alt="Old Anime GIF"/>
+</a>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
