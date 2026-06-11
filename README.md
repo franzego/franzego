@@ -113,8 +113,8 @@
 </p> -->
 
 <!-- Ending -->
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/old anime.gif">
-  <img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/old anime.gif" alt="Old Anime GIF"/>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/scene.gif">
+  <img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/scene.gif" alt="Old Anime GIF"/>
 </a>
 
 
