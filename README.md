@@ -20,8 +20,8 @@
 
 
 <!-- MasterHead -->
-<a href="https://github.com/franzego/franzego/blob/main/fallout_grayscale%20(1).gif">
-  <img width="100%" src="https://github.com/franzego/franzego/blob/main/BEZEHEL.gif" alt="Fallout GIF"/>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/green.gif">
+  <img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/green.gif" alt="Fallout GIF"/>
 </a>
 
 <!-- Greeting -->
