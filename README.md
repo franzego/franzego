@@ -11,17 +11,17 @@
 -->
 
 <!-- Footer Wave (Commented Out) -->
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
     width="100%" 
   />
-</p>
+</p> -->
 
 
 <!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/green.gif">
-  <img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/green.gif" alt="Fallout GIF"/>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/balcony.gif">
+  <img width="100%" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/balcony.gif" alt="Fallout GIF"/>
 </a>
 
 <!-- Greeting -->
@@ -113,6 +113,6 @@
 </p> -->
 
 <!-- Ending -->
-<img src="https://github.com/franzego/franzego/blob/main/fallout.gif" alt="Fallout GIF" style="width:auto; height:auto" />
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/balcony.gif" style="width:auto; height:auto" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
