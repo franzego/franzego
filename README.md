@@ -76,7 +76,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=golang,vscode,github,git,obsidian,rust" /><br>
   <img src="https://skillicons.dev/icons?i=bash,kali,arch,ubuntu,mysql,dotnet" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,htmx,debian,neovim,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,htmx,debian,neovim,pwsh,js" /><br>
 </div>
 
 <br>
@@ -88,6 +88,19 @@
 <img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=franzego&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
 </div>
 
+<!-- Best Repositories -->
+<div align="center">
+  <h3>⭐️ Interesting Repositories</h3>
+  <p align="center">
+<a href="https://github.com/franzego/CableTube">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=franzego&repo=CableTube" /></a>
+<a href="https://github.com/franzego/lsmgo">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=franzego&repo=lsmgo" /></a>
+<a href="https://github.com/franzego/transgoder">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=franzego&repo=transgoder" /></a>
+<a href="https://github.com/franzego/ebpf-go">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=franzego&repo=ebpf-go" /></a>
+    
 <!-- Support -->
 <!-- <h3 align="center">💰 Support My Blog</h3>
 <p align="center">
